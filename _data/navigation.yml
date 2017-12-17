@@ -1,4 +1,4 @@
-# Belongs at: /_data/navigation.yml
+# Belongs at: /_data/navigation.yml 
 toc:
 - title: ATutor
   url: http://atutor.github.io/atutor/index.html
@@ -40,4 +40,4 @@ toc:
     - title: Translation
       url: http://atutor.github.io/developer/languages.html
     - title: Report Issues
-      url: https://github.com/atutor/ATutor/issuesx`
+      url: https://github.com/atutor/ATutor/issues
